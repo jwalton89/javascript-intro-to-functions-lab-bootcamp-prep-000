@@ -13,6 +13,6 @@ function logWhisper(string) {
 }
 
 
-function sayHiToGradma(toLowerCase.string()) {
+function sayHiToGradma(string) {
   return "I can't hear you!"
 }
