@@ -16,4 +16,3 @@ var lowercase = 'hello!'
 function sayHiToGradma(string) {
   return "I can't hear you!"
 }
-
