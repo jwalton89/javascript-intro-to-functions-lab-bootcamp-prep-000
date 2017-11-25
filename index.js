@@ -14,5 +14,6 @@ function logWhisper(string) {
 var uppercase = "HELLO!"
 var lowercase = 'hello!'
 function sayHiToGradma(string) {
-  return ((lowercase.ToLowerCase()===lowercase) {return("I can't hear you!")}
+  return "I can't hear you!"
 }
+
